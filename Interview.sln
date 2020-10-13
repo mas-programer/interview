@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interview", "Interview\Interview.csproj", "{368BACDC-10F9-4E06-A754-2F33087D9368}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interview", "Interview\Interview.csproj", "{368BACDC-10F9-4E06-A754-2F33087D9368}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviewTest", "InterviewTest\InterviewTest.csproj", "{27E0AD60-E52B-4908-809F-9B192D45DC3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interview.UnitTest", "InterviewTest\Interview.UnitTest.csproj", "{27E0AD60-E52B-4908-809F-9B192D45DC3A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
