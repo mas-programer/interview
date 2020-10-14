@@ -3,4 +3,4 @@
 
 单元测试结果
 
-![image](https://github.com/mas-programer/interview/new/main/image.png)
+![image](https://raw.githubusercontent.com/mas-programer/interview/main/image.png)
